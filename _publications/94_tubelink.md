@@ -2,7 +2,8 @@
 title: "Tube-Link: A Flexible Cross Tube Baseline for Universal Video Segmentation"
 collection: publications
 permalink: /publication/tubelink
-conf: 'arXiv:2303.12782'
+conf: 'International Conference on Computer Vision'
+conf_shortname: 'ICCV'
 year: '2023'
 author: Xiangtai Li, Haobo Yuan, <strong>Wenwei Zhang</strong>, Guangliang Cheng, Jiangmiao Pang, Chen Change Loy
 codeurl: https://github.com/lxtgh/tube-link
