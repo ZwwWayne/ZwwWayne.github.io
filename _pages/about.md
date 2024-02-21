@@ -13,7 +13,7 @@ Before that, he received his bachelor degree at the [Computer Science School](ht
 You can find his CV [here](/files/resume.pdf).
 
 He has been leading the fine-tuning team of [InternLM](https://internlm.intern-ai.org.cn/) since 2023, working on AI Agents and self-improvement (scalable oversight) of Large Language Models.
-His past works [explore versatile neural architectures across modalities and perception tasks](https://dr.ntu.edu.sg/handle/10356/171935).
+His past works mainly explore [versatile neural architectures across modalities and perception tasks](https://dr.ntu.edu.sg/handle/10356/171935) and open-vocabulary perception.
 He built and released [MMDetection3D](https://github.com/open-mmlab/mmdetection3d), and has been leading the development of [MMDetection](https://github.com/open-mmlab/mmdetection) and [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) since 2020, respectively, as a core member of [OpenMMLab](https://openmmlab.com/) since 2019.
 
 Recent News
@@ -24,6 +24,7 @@ InternLM2-Chat, state-of-the-art open-source LLMs in [opencompass](https://rank.
 2 papers ([CLIPSelf](https://arxiv.org/abs/2310.01403) and [UniHSI](https://arxiv.org/abs/2309.07918)) are accepted as <font color="Tomato"><strong>spotlights</strong></font> by ICLR2024. (Jan. 2024)
 
 2 papers ([Robo3D](https://arxiv.org/abs/2303.17597) and [Tube-Link](https://arxiv.org/abs/2303.12782)) are accepted by ICCV2023. (July. 2023)
+
 3 papers ([BARON](https://arxiv.org/abs/2302.13996), [MV-JAR](https://arxiv.org/abs/2303.13510), and [DDQ](https://arxiv.org/abs/2303.12776)) are accepted by CVPR2023. (Mar. 2023)
 
 We release [OpenMMLab 2.0](https://openmmlab.com/) with a new core, [MMEngine](https://github.com/open-mmlab/mmengine). (Sept. 2022)
@@ -44,6 +45,6 @@ Win the <font color="Tomato"><strong>1st prize</strong></font> in [COCO 2019 Obj
 Academic Service
 ------------------------
 
-Conference Reviewer: CVPR2020-2023, ICCV2021-2023, ECCV2020-2022, ICLR2022-2023, NeurIPS2021-2022, ICML2023, ACM MM2020.
+Conference Reviewer: CVPR2020-2024, ICCV2021-2023, ECCV2020-2024, ICLR2022-2024, NeurIPS2021-2023, ICML2023-2024, ACM MM2020.
 
-Committee member and speaker of OpenMMLab Tutorials in CVPR [2021](https://openmmlab.com/community/cvpr2021-tutorial)/[2022](https://openmmlab.com/community/cvpr2022-tutorial), and [AAAI2023](https://openmmlab.com/community/aaai2023-lab)
+Committee member and speaker of OpenMMLab Tutorials in CVPR [2021](https://openmmlab.com/community/cvpr2021-tutorial)/[2022](https://openmmlab.com/community/cvpr2022-tutorial)/2023, and [AAAI2023](https://openmmlab.com/community/aaai2023-lab)
