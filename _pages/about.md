@@ -23,11 +23,11 @@ Recent News
 
 InternLM2-Chat, state-of-the-art open-source LLMs in [opencompass](https://rank.opencompass.org.cn/home) and [AlpacaEval2](https://tatsu-lab.github.io/alpaca_eval/), have been released. See [InternLM2 Model Zoo](https://github.com/InternLM/InternLM?tab=readme-ov-file#model-zoo). (Jan. 2024)
 
-2 papers ([CLIPSelf](https://arxiv.org/abs/2310.01403) and [UniHSI](https://arxiv.org/abs/2309.07918)) are accepted as <font color="Tomato"><strong>spotlights</strong></font> by ICLR2024. (Jan. 2024)
+2 papers ([CLIPSelf](https://github.com/wusize/CLIPSelf) and [UniHSI](https://github.com/OpenRobotLab/UniHSI)) are accepted as <font color="Tomato"><strong>spotlights</strong></font> by ICLR2024. (Jan. 2024)
 
-2 papers ([Robo3D](https://arxiv.org/abs/2303.17597) and [Tube-Link](https://arxiv.org/abs/2303.12782)) are accepted by ICCV2023. (July. 2023)
+2 papers ([Robo3D](https://github.com/ldkong1205/Robo3D) and [Tube-Link](https://github.com/lxtGH/Tube-Link)) are accepted by ICCV2023. (July. 2023)
 
-3 papers ([BARON](https://arxiv.org/abs/2302.13996), [MV-JAR](https://arxiv.org/abs/2303.13510), and [DDQ](https://arxiv.org/abs/2303.12776)) are accepted by CVPR2023. (Mar. 2023)
+3 papers ([BARON](https://github.com/wusize/ovdet), [MV-JAR](https://arxiv.org/abs/2303.13510), and [DDQ](https://arxiv.org/abs/2303.12776)) are accepted by CVPR2023. (Mar. 2023)
 
 We release [OpenMMLab 2.0](https://openmmlab.com/) with a new core, [MMEngine](https://github.com/open-mmlab/mmengine). (Sept. 2022)
 
