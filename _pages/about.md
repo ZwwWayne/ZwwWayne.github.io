@@ -19,6 +19,8 @@ He built and released [MMDetection3D](https://github.com/open-mmlab/mmdetection3
 Recent News
 ------------------------
 
+2 papers ([EmbodiedScan](https://arxiv.org/abs/2312.16170) and [OMG-Seg](https://github.com/lxtGH/OMG-Seg)) are accepted by CVPR2024. (Feb. 2024)
+
 InternLM2-Chat, state-of-the-art open-source LLMs in [opencompass](https://rank.opencompass.org.cn/home) and [AlpacaEval2](https://tatsu-lab.github.io/alpaca_eval/), have been released. See [InternLM2 Model Zoo](https://github.com/InternLM/InternLM?tab=readme-ov-file#model-zoo). (Jan. 2024)
 
 2 papers ([CLIPSelf](https://arxiv.org/abs/2310.01403) and [UniHSI](https://arxiv.org/abs/2309.07918)) are accepted as <font color="Tomato"><strong>spotlights</strong></font> by ICLR2024. (Jan. 2024)
