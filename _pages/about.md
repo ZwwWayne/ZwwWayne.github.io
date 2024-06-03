@@ -21,6 +21,10 @@ We have opening positions for PhD/postdoc/intern and full-time researchers. If y
 Recent News
 ------------------------
 
+5 papers ([T-Eval](https://github.com/open-compass/T-Eval), [ANAH](https://github.com/open-compass/ANAH), [Agent-FLAN](https://github.com/InternLM/Agent-FLAN), [MathBench](https://github.com/open-compass/MathBench), [Code Need Comments](https://arxiv.org/abs/2402.13013)) accepted by ACL2024 (2 main paper, 3 findings). (May, 2024)
+
+1 paper ([Say-I-Dont-Know](https://github.com/OpenMOSS/Say-I-Dont-Know)) accepted by ICML2024. (May, 2024)
+
 2 papers ([EmbodiedScan](https://arxiv.org/abs/2312.16170) and [OMG-Seg](https://github.com/lxtGH/OMG-Seg)) are accepted by CVPR2024. (Feb. 2024)
 
 InternLM2-Chat, state-of-the-art open-source LLMs in [opencompass](https://rank.opencompass.org.cn/home) and [AlpacaEval2](https://tatsu-lab.github.io/alpaca_eval/), have been released. See [InternLM2 Model Zoo](https://github.com/InternLM/InternLM?tab=readme-ov-file#model-zoo). (Jan. 2024)
