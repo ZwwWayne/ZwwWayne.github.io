@@ -12,7 +12,7 @@ Wenwei Zhang is a Researcher at [Shanghai Artificial Intelligence Laboratory](ht
 Before that, he received his bachelor degree at the [Computer Science School](http://cs.whu.edu.cn/), Wuhan University.
 You can find his CV [here](/files/resume.pdf).
 
-He has been leading the fine-tuning team of [InternLM](https://internlm.intern-ai.org.cn/) since 2023, working on AI Agents and self-improvement (scalable oversight) of Large Language Models.
+He has been leading a post-training team of [InternLM](https://internlm.intern-ai.org.cn/) since 2023, working on AI Agents and self-improvement (scalable oversight) of Large Language Models.
 His past works mainly explore [versatile neural architectures across modalities and perception tasks](https://dr.ntu.edu.sg/handle/10356/171935) and open-vocabulary perception.
 He built and released [MMDetection3D](https://github.com/open-mmlab/mmdetection3d), and has been leading the development of [MMDetection](https://github.com/open-mmlab/mmdetection) and [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) since 2020, respectively, as a core member of [OpenMMLab](https://openmmlab.com/) since 2019.
 
@@ -21,7 +21,9 @@ We have opening positions for PhD/postdoc/intern and full-time researchers. If y
 Recent News
 ------------------------
 
-InternLM2.5-Chat, state-of-the-art open-source LLMs in [opencompass](https://rank.opencompass.org.cn/home) and [AlpacaEval2](https://tatsu-lab.github.io/alpaca_eval/), have been released. See [InternLM2.5 Model Zoo](https://github.com/InternLM/InternLM?tab=readme-ov-file#model-zoo). (July 2024)
+4 papers ([CriticEval](https://arxiv.org/abs/2402.13764), [ANAH-v2](https://arxiv.org/abs/2407.04693), [AlchemistCoder](https://github.com/InternLM/AlchemistCoder), [InternLM-Xcomposer2-4KHD](https://arxiv.org/abs/2404.06512)) accepted by NeurIPS2024. (Sept., 2024)
+
+InternLM2.5-Chat, state-of-the-art open-source LLMs in [opencompass](https://rank.opencompass.org.cn/home) and [huggingface leadboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard/), have been released. See [InternLM2.5 Model Zoo](https://github.com/InternLM/InternLM?tab=readme-ov-file#model-zoo). (July 2024)
 
 5 papers ([T-Eval](https://github.com/open-compass/T-Eval), [ANAH](https://github.com/open-compass/ANAH), [Agent-FLAN](https://github.com/InternLM/Agent-FLAN), [MathBench](https://github.com/open-compass/MathBench), [Code Need Comments](https://arxiv.org/abs/2402.13013)) accepted by ACL2024 (2 main paper, 3 findings). (May, 2024)
 
@@ -55,6 +57,6 @@ Win the <font color="Tomato"><strong>1st prize</strong></font> in [COCO 2019 Obj
 Academic Service
 ------------------------
 
-Conference Reviewer: CVPR2020-2024, ICCV2021-2023, ECCV2020-2024, ICLR2022-2024, NeurIPS2021-2024, ICML2023-2024, ACM MM2020.
+Conference Reviewer: CVPR2020-2024, ICCV2021-2023, ECCV2020-2024, ICLR2022-2025, NeurIPS2021-2024, ICML2023-2024, ACM MM2020.
 
 Committee member and speaker of OpenMMLab Tutorials in CVPR [2021](https://openmmlab.com/community/cvpr2021-tutorial)/[2022](https://openmmlab.com/community/cvpr2022-tutorial)/2023, and [AAAI2023](https://openmmlab.com/community/aaai2023-lab)
