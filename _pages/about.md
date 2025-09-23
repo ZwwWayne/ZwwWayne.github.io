@@ -51,6 +51,6 @@ Academic Service
 
 Area Chair: CVPR2026
 
-Conference Reviewer: CVPR2020-2024, ICCV2021-2025, ECCV2020-2024, ICLR2022-2026, NeurIPS2021-2025, ICML2023-2024, ACM MM2020.
+Conference Reviewer: CVPR2020-2025, ICCV2021-2025, ECCV2020-2024, ICLR2022-2026, NeurIPS2021-2025, ICML2023-2024, ACM MM2020.
 
 Committee member and speaker of OpenMMLab Tutorials in CVPR [2021](https://openmmlab.com/community/cvpr2021-tutorial)/[2022](https://openmmlab.com/community/cvpr2022-tutorial)/2023, and [AAAI2023](https://openmmlab.com/community/aaai2023-lab)
