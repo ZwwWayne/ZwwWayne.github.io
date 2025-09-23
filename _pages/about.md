@@ -49,7 +49,7 @@ Win the <font color="Tomato"><strong>1st prize</strong></font> in [COCO 2019 Obj
 Academic Service
 ------------------------
 
-Area Chair: CVPR2025
+Area Chair: CVPR2026
 
 Conference Reviewer: CVPR2020-2024, ICCV2021-2025, ECCV2020-2024, ICLR2022-2026, NeurIPS2021-2025, ICML2023-2024, ACM MM2020.
 
