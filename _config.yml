@@ -10,7 +10,7 @@ locale: "en-US"
 title: "Wenwei Zhang"
 title_separator: "-"
 name: &name "Wenwei Zhang"
-description: &description "Graduate Student at Nanyang Technological University"
+description: &description "Research scientist working on AI agents and self-improvement of foundation models"
 url: https://zwwwayne.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "zwwwayne.github.io"
@@ -78,9 +78,9 @@ analytics:
 author:
   name: "Wenwei Zhang"
   avatar: "profile-mine.png"
-  bio: "PhD student at NTU"
-  location: "Singapore"
-  employer:
+  bio: "Young Research Scientist, Shanghai AI Laboratory"
+  location: "Shanghai"
+  employer: "Foundation Models / OpenMMLab"
   googlescholar: "https://scholar.google.com/citations?user=QDXADSEAAAAJ&hl=zh-CN"
   email: "wenwei001@ntu.edu.sg"
   uri:
