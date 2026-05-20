@@ -10,7 +10,6 @@ redirect_from:
 
 <section class="research-hero">
   <div class="research-hero__copy">
-    <p class="research-kicker">Shanghai AI Laboratory / Intern-S1/2 / OpenMMLab</p>
     <h1>Wenwei Zhang，张文蔚</h1>
     <p class="research-hero__lead">Wenwei Zhang is a Young Research Scientist at <a href="https://www.shlab.org.cn/">Shanghai Artificial Intelligence Laboratory</a>. He works on post-training and self-improvement (scalable oversight) of foundation models, including Intern-S1/2, with a focus on AI Agents.</p>
     <div class="research-actions" aria-label="Primary links">
@@ -34,15 +33,11 @@ redirect_from:
     <dl class="research-signal">
       <div>
         <dt>Current focus</dt>
-        <dd>AI Agents and self-improvement of foundation models</dd>
+        <dd>Self-improving foundation models and agents via interaction and scalable oversight</dd>
       </div>
       <div>
         <dt>Systems</dt>
-        <dd>Intern-S1/2, InternLM, MMDetection and MMDetection3D</dd>
-      </div>
-      <div>
-        <dt>Research roots</dt>
-        <dd>Versatile neural architectures and open-vocabulary perception</dd>
+        <dd><a href="https://github.com/InternLM/Intern-S1">Intern-S1</a>, <a href="https://huggingface.co/internlm/Intern-S2-Preview">Intern-S2</a>, <a href="https://github.com/InternLM/InternLM">InternLM</a>, <a href="https://github.com/open-mmlab/mmdetection">MMDetection</a> and <a href="https://github.com/open-mmlab/mmdetection3d">MMDetection3D</a></dd>
       </div>
       <div>
         <dt>Open positions</dt>
@@ -55,7 +50,7 @@ redirect_from:
 <section class="research-brief">
   <div>
     <span class="research-metric">2023-</span>
-    <p>Working on post-training and self-improvement of foundation models, including Intern-S1/2.</p>
+    <p>Current work at Shanghai AI Laboratory on post-training, agents, and scalable oversight.</p>
   </div>
   <div>
     <span class="research-metric">2019-</span>
@@ -72,28 +67,19 @@ redirect_from:
     <p class="research-kicker">Research Direction</p>
     <h2>Self-improvement of Intelligence</h2>
   </div>
-  <div>
-    <p>He obtained his Ph.D. degree at <a href="https://www.mmlab-ntu.com/">MMLab</a>, <a href="http://scse.ntu.edu.sg/Pages/Home.aspx">School of Computer Science and Engineering</a>, Nanyang Technological University, Singapore, supervised by Professor <a href="https://www.mmlab-ntu.com/person/ccloy/index.html">Chen Change (Cavan) Loy</a>. Before that, he received his bachelor degree at the <a href="http://cs.whu.edu.cn/">Computer Science School</a>, Wuhan University.</p>
-    <p>His past works mainly explore <a href="https://dr.ntu.edu.sg/handle/10356/171935">versatile neural architectures across modalities and perception tasks</a> and open-vocabulary perception. He built and released <a href="https://github.com/open-mmlab/mmdetection3d">MMDetection3D</a>, and has been leading the development of <a href="https://github.com/open-mmlab/mmdetection">MMDetection</a> and <a href="https://github.com/open-mmlab/mmdetection3d">MMDetection3D</a> since 2020, respectively, as a core member of <a href="https://openmmlab.com/">OpenMMLab</a> since 2019.</p>
+  <div class="research-direction__body">
+    <p>My research focuses on foundation models and agents that improve through interaction with agents, environments, tools, and humans, under scalable oversight. I study two connected questions:</p>
+    <div class="research-questions">
+      <article>
+        <h3>Machine Cognition</h3>
+        <p>How can machines model, learn, and continually evolve cognitive capabilities in the human world?</p>
+      </article>
+      <article>
+        <h3>Human-Machine Collaboration</h3>
+        <p>How can evolving machine cognition assist complex human activities while keeping humans valuable in an increasingly automated world?</p>
+      </article>
+    </div>
   </div>
-</section>
-
-<section class="research-lanes" aria-label="Research lanes">
-  <article>
-    <span>01</span>
-    <h3>Foundation Models</h3>
-    <p>Post-training and self-improvement work for foundation models including Intern-S1/2, with a focus on AI Agents.</p>
-  </article>
-  <article>
-    <span>03</span>
-    <h3>Open-Source Systems</h3>
-    <p>OpenMMLab systems work around MMDetection, MMDetection3D, and general 3D object detection platforms.</p>
-  </article>
-  <article>
-    <span>02</span>
-    <h3>Versatile Architectures</h3>
-    <p>Research on versatile neural architectures across modalities and perception tasks, including open-vocabulary perception.</p>
-  </article>
 </section>
 
 <section class="research-section">
