@@ -1,6 +1,7 @@
 ---
 title: "Dense Distinct Query for End-to-End Object Detection   "
 collection: publications
+selected: false
 permalink: /publication/ddq
 conf: 'IEEE Conference on Computer Vision and Pattern Recognition'
 conf_shortname: 'CVPR'

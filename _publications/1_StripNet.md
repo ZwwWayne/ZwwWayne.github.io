@@ -1,6 +1,7 @@
 ---
 title: "StripNet: Towards Topology Consistent Strip Structure Segmentation"
 collection: publications
+selected: false
 permalink: /publication/StripNet
 date: 2018-10-26
 conf: 'ACM International Conference on Multimedia'
