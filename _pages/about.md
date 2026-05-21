@@ -36,8 +36,8 @@ redirect_from:
         <dd>Self-improving foundation models and agents via interaction and scalable oversight</dd>
       </div>
       <div>
-        <dt>Systems</dt>
-        <dd><a href="https://github.com/InternLM/Intern-S1">Intern-S1</a>, <a href="https://huggingface.co/internlm/Intern-S2-Preview">Intern-S2</a>, <a href="https://github.com/InternLM/InternLM">InternLM</a>, <a href="https://github.com/open-mmlab/mmdetection">MMDetection</a> and <a href="https://github.com/open-mmlab/mmdetection3d">MMDetection3D</a></dd>
+        <dt>Projects</dt>
+        <dd><a href="https://github.com/InternLM/Intern-S1">Intern-S1</a>, <a href="https://huggingface.co/internlm/Intern-S2-Preview">Intern-S2</a>, <a href="https://github.com/InternLM/InternLM">InternLM</a>, <a href="https://github.com/InternLM/MindSearch">MindSearch</a>, <a href="https://github.com/open-mmlab/mmdetection">MMDetection</a> and <a href="https://github.com/open-mmlab/mmdetection3d">MMDetection3D</a></dd>
       </div>
       <div>
         <dt>Open positions</dt>
@@ -86,6 +86,10 @@ redirect_from:
   <p class="research-kicker">Recent News</p>
   <h2>Selected updates</h2>
   <ol class="research-timeline">
+    <li>
+      <time>Dec. 2025</time>
+      <p>Our long-horizon reasoning agent officially ranked <strong>3rd among human competitors</strong> and <strong>1st among AI competitors</strong> in the Chinese Olympiad in Mathematics (CMO2025).</p>
+    </li>
     <li>
       <time>July 2025</time>
       <p>Intern-S1, state-of-the-art open-source multi-modal foundation model has been released. See <a href="https://huggingface.co/collections/internlm/intern-s1-6882e325e8ac1c58ba108aa5">Intern-S1 Collections</a> and <a href="https://arxiv.org/abs/2508.15763">tech report</a>.</p>

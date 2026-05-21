@@ -1,6 +1,7 @@
 ---
 title: "Position-Guided Point Cloud Panoptic Segmentation Transformer"
 collection: publications
+selected: false
 permalink: /publication/p3former
 conf: 'arXiv:2303.13509'
 year: '2023'

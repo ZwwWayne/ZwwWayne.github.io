@@ -1,6 +1,7 @@
 ---
 title: "Aligning Bag of Regions for Open-Vocabulary Object Detection"
 collection: publications
+selected: false
 permalink: /publication/baron
 conf: 'IEEE Conference on Computer Vision and Pattern Recognition'
 conf_shortname: 'CVPR'

@@ -1,6 +1,7 @@
 ---
 title: "MV-JAR: Masked Voxel Jigsaw and Reconstruction for LiDAR-Based Self-Supervised Pre-Training"
 collection: publications
+selected: false
 permalink: /publication/mvjar
 conf: 'IEEE Conference on Computer Vision and Pattern Recognition'
 conf_shortname: 'CVPR'

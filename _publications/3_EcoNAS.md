@@ -1,6 +1,7 @@
 ---
 title: "EcoNAS: Finding Proxies for Economical Neural Architecture Search"
 collection: publications
+selected: false
 permalink: /publication/EcoNAS
 conf: 'IEEE Conference on Computer Vision and Pattern Recognition'
 conf_shortname: 'CVPR'

@@ -1,6 +1,7 @@
 ---
 title: "Dense Siamese Network for Dense Unsupervised Learning"
 collection: publications
+selected: false
 permalink: /publication/densesiam
 conf: 'European Conference on Computer Vision'
 conf_shortname: 'ECCV'

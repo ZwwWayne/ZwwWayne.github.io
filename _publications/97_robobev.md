@@ -1,6 +1,7 @@
 ---
 title: "RoboBEV: Towards Robust Bird's Eye View Perception under Corruptions"
 collection: publications
+selected: false
 permalink: /publication/robobev
 conf: "arXiv:2304.06719"
 year: '2023'

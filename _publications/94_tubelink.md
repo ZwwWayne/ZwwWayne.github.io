@@ -1,6 +1,7 @@
 ---
 title: "Tube-Link: A Flexible Cross Tube Baseline for Universal Video Segmentation"
 collection: publications
+selected: false
 permalink: /publication/tubelink
 conf: 'International Conference on Computer Vision'
 conf_shortname: 'ICCV'
