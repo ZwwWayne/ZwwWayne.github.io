@@ -7,7 +7,6 @@ conf_shortname: 'ACL Findings'
 year: '2024'
 author: Zehui Chen, Kuikun Liu, Qiuchen Wang, <strong>Wenwei Zhang</strong>, Jiangning Liu, Dahua Lin, Kai Chen, Feng Zhao
 paperurl: https://arxiv.org/abs/2403.12881
-codeurl: https://github.com/InternLM/Agent-FLAN
 projecturl: https://internlm.github.io/Agent-FLAN/
 additional: true
 ---
