@@ -145,8 +145,8 @@ redirect_from:
   <p class="research-kicker">Academic Service</p>
   <h2>Community roles</h2>
   <ul class="research-service">
-    <li><strong>Area Chair:</strong> CVPR2026.</li>
-    <li><strong>Conference Reviewer:</strong> CVPR2020-2025, ICCV2021-2025, ECCV2020-2024, ICLR2022-2026, NeurIPS2021-2025, ICML2023-2024, ACM MM2020.</li>
+    <li><strong>Area Chair:</strong> CVPR2026/2027, ICLR2027.</li>
+    <li><strong>Conference Reviewer:</strong> CVPR/ECCV since 2020, ICCV/NeurIPS since 2021, ICLR since 2022, ICML since 2023.</li>
     <li><strong>Committee member and speaker</strong> of OpenMMLab Tutorials in CVPR <a href="https://openmmlab.com/community/cvpr2021-tutorial">2021</a>/<a href="https://openmmlab.com/community/cvpr2022-tutorial">2022</a>/2023, and <a href="https://openmmlab.com/community/aaai2023-lab">AAAI2023</a>.</li>
   </ul>
 </section>
