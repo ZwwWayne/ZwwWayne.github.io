@@ -30,7 +30,6 @@ redirect_from:
   </div>
   <figure class="research-portrait">
     <img src="/images/profile-mine.png" alt="Wenwei Zhang" width="320" height="320" fetchpriority="high">
-    <figcaption>XPENG Robotics</figcaption>
   </figure>
 </section>
 <aside class="research-opening"><span class="opening-dot" aria-hidden="true"></span><p><strong>We’re hiring.</strong> Internships and full-time roles to build physical agents for <a href="https://www.xpeng.com/technology/ai_robot_iron">IRON</a>.</p><a href="mailto:wayne.zw@outlook.com">Let’s talk <span aria-hidden="true">↗</span></a></aside>
