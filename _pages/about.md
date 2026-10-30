@@ -1,103 +1,148 @@
 ---
+layout: research-home
 permalink: /
 title: "Wenwei Zhang，张文蔚"
-excerpt: "About me"
-author_profile: true
+excerpt: "Sr. Staff Research Scientist at XPENG Robotics, working on scalable oversight of physical agents."
+author_profile: false
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<section class="research-hero">
+<section class="research-hero" aria-labelledby="profile-title">
   <div class="research-hero__copy">
-    <h1>Wenwei Zhang，张文蔚</h1>
-    <p class="research-hero__lead">Wenwei Zhang is a Young Research Scientist at <a href="https://www.shlab.org.cn/">Shanghai Artificial Intelligence Laboratory</a>. He works on post-training and self-improvement (scalable oversight) of foundation models, including Intern-S1/2, with a focus on AI Agents.</p>
+    <p class="research-kicker">AI agents</p>
+    <h1 id="profile-title">Wenwei Zhang <span lang="zh">张文蔚</span></h1>
+    <p class="research-role">Sr. Staff Research Scientist · XPENG Robotics</p>
+    <p class="research-hero__lead">My research focuses on <strong>scalable oversight of agents in the physical world</strong> at <a href="https://xpeng-robotics.github.io/">XPENG Robotics</a>.</p>
+    <p class="research-hero__context">Previously, at <a href="https://www.shlab.org.cn/">Shanghai AI Laboratory</a>, I was responsible for the post-training of the InternLM and Intern-S model series and conducted research on scalable oversight of digital agents. As a core member of <a href="https://openmmlab.com/">OpenMMLab</a> since 2019, I built and released <a href="https://github.com/open-mmlab/mmdetection3d">MMDetection3D</a> and have led the development of <a href="https://github.com/open-mmlab/mmdetection">MMDetection</a> and <a href="https://github.com/open-mmlab/mmdetection3d">MMDetection3D</a> since 2020. I received my Ph.D. from Nanyang Technological University, Singapore, where I worked at <a href="https://www.mmlab-ntu.com/">MMLab</a> under the supervision of Professor <a href="https://www.mmlab-ntu.com/person/ccloy/">Chen Change (Cavan) Loy</a>. I have also collaborated with <a href="https://chenkai.site/">Kai Chen</a>, <a href="https://oceanpang.github.io/">Jiangmiao Pang</a>, and <a href="https://shijianping.me/">Jianping Shi</a>.</p>
     <div class="research-actions" aria-label="Primary links">
-      <a href="/publications/">Publications</a>
-      <a href="/files/resume.pdf">CV</a>
-      <a href="mailto:wenwei001@ntu.edu.sg">Contact</a>
+      <a class="primary" href="/publications/">Selected publications <span aria-hidden="true">↗</span></a>
+      <a href="/files/resume.pdf">CV <span aria-hidden="true">↗</span></a>
+      <a href="mailto:wayne.zw@outlook.com">Get in touch <span aria-hidden="true">↗</span></a>
+    </div>
+    <div class="research-social" aria-label="Social profiles">
+      <a href="https://scholar.google.com/citations?user=QDXADSEAAAAJ&amp;hl=zh-CN">Google Scholar</a>
+      <a href="https://github.com/ZwwWayne">GitHub</a>
+      <a href="https://www.linkedin.com/in/wenweizhang-b9769a124/">LinkedIn</a>
+      <a href="https://twitter.com/wenweiz97">Twitter</a>
     </div>
   </div>
-  <div class="research-hero__panel" aria-label="Research profile">
-    <div class="research-figure" aria-hidden="true">
-      <span class="research-figure__core"></span>
-      <span class="research-figure__ring research-figure__ring--outer"></span>
-      <span class="research-figure__ring research-figure__ring--inner"></span>
-      <span class="research-figure__node research-figure__node--agents"></span>
-      <span class="research-figure__node research-figure__node--oversight"></span>
-      <span class="research-figure__node research-figure__node--vision"></span>
-      <span class="research-figure__node research-figure__node--systems"></span>
-      <span class="research-figure__path research-figure__path--one"></span>
-      <span class="research-figure__path research-figure__path--two"></span>
-    </div>
-    <dl class="research-signal">
-      <div>
-        <dt>Current focus</dt>
-        <dd>Self-improving foundation models and agents via interaction and scalable oversight</dd>
-      </div>
-      <div>
-        <dt>Projects</dt>
-        <dd><a href="https://github.com/InternLM/Intern-S1">Intern-S1</a>, <a href="https://huggingface.co/internlm/Intern-S2-Preview">Intern-S2</a>, <a href="https://github.com/InternLM/InternLM">InternLM</a>, <a href="https://github.com/InternLM/MindSearch">MindSearch</a>, <a href="https://github.com/open-mmlab/mmdetection">MMDetection</a> and <a href="https://github.com/open-mmlab/mmdetection3d">MMDetection3D</a></dd>
-      </div>
-      <div>
-        <dt>Open positions</dt>
-        <dd>PhD/postdoc/intern and full-time researcher roles are open.</dd>
-      </div>
-    </dl>
-  </div>
+  <figure class="research-portrait">
+    <img src="/images/profile-mine.png" alt="Wenwei Zhang" width="320" height="320" fetchpriority="high">
+    <figcaption>XPENG Robotics</figcaption>
+  </figure>
 </section>
+<aside class="research-opening"><span class="opening-dot" aria-hidden="true"></span><p><strong>We’re hiring.</strong> Internships and full-time roles to build physical agents for <a href="https://www.xpeng.com/technology/ai_robot_iron">IRON</a>.</p><a href="mailto:wayne.zw@outlook.com">Let’s talk <span aria-hidden="true">↗</span></a></aside>
 
-<section class="research-brief">
-  <div>
-    <span class="research-metric">2023-</span>
-    <p>Current work at Shanghai AI Laboratory on post-training, agents, and scalable oversight.</p>
-  </div>
-  <div>
-    <span class="research-metric">2019-</span>
-    <p>Core member of OpenMMLab; built and released MMDetection3D and has led MMDetection/MMDetection3D development since 2020.</p>
-  </div>
-  <div>
-    <span class="research-metric">Ph.D.</span>
-    <p>MMLab, Nanyang Technological University, Singapore, supervised by Professor Chen Change (Cavan) Loy.</p>
-  </div>
-</section>
-
-<section class="research-section research-section--split">
+<section id="research" class="research-section research-section--split">
   <div>
     <p class="research-kicker">Research Direction</p>
-    <h2>Self-improvement of Intelligence</h2>
+    <h2>Scalable Oversight</h2>
   </div>
   <div class="research-direction__body">
-    <p>My research focuses on foundation models and agents that improve through interaction with agents, environments, tools, and humans, under scalable oversight. I study two connected questions:</p>
+    <p>I am interested in how agents develop cognitive and physical intelligence and how people can remain valuable collaborators as agents evolve. Reinforcement learning offers a key mechanism for this evolution through a closed loop of interaction, feedback, and policy improvement. Specifically, I study the following two questions:</p>
     <div class="research-questions">
       <article>
-        <h3>Machine Cognition</h3>
-        <p>How can machines model, learn, and continually evolve cognitive capabilities in the human world?</p>
+        <h3>Cognitive and Physical Intelligence</h3>
+        <p>How can machines model, learn, and continually evolve cognitive and physical capabilities in the human world, both digital and physical?</p>
       </article>
       <article>
         <h3>Human-Machine Collaboration</h3>
         <p>How can evolving machine cognition assist complex human activities while keeping humans valuable in an increasingly automated world?</p>
       </article>
     </div>
+    <p class="research-direction__approach">I approach these two questions through scalable oversight, providing reliable feedback at scale for reinforcement learning while keeping people involved in guiding agents’ progress and working alongside them. I view self-improvement and recursive self-improvement (RSI) as natural outcomes of making this learning loop reliable and scalable.</p>
   </div>
 </section>
 
-<section class="research-section">
+<section id="projects" class="research-section">
+  <div class="section-heading"><div><p class="research-kicker">Open source</p><h2>Selected projects</h2></div><a href="https://github.com/ZwwWayne">More on GitHub ↗</a></div>
+  <div class="research-projects">
+    <article class="project-group" aria-labelledby="model-projects-title">
+      <h3 id="model-projects-title">Foundation Models</h3>
+      <div class="project-group__entries">
+        <div class="project-group__entry">
+          <h4><a href="https://github.com/InternLM/InternLM"><span>InternLM</span><span aria-hidden="true">↗</span></a></h4>
+          <p>Post-training of the InternLM language model series.</p>
+          {% include project-metric.html key="internlm" kind="downloads" %}
+        </div>
+        <div class="project-group__entry">
+          <h4><a href="https://github.com/InternLM/Intern-S1"><span>Intern-S</span><span aria-hidden="true">↗</span></a></h4>
+          <p>Post-training of the Intern-S foundation model series.</p>
+          {% include project-metric.html key="intern_s" kind="downloads" %}
+        </div>
+      </div>
+    </article>
+    <article class="project-group" aria-labelledby="agent-projects-title">
+      <h3 id="agent-projects-title">Foundation model-based Agents</h3>
+      <div class="project-group__entries">
+        <div class="project-group__entry">
+          <h4><a href="https://www.shlab.org.cn/shlab-s2-ghys"><span>Long-horizon Reasoning Agent</span><span aria-hidden="true">↗</span></a></h4>
+          <p>Intern-S2 supported a human–AI collaboration that proved the three-dimensional Ghys conjecture.</p>
+          <a class="project-metric" href="http://finance.people.com.cn/n1/2026/1017/c1004-40816542.html" title="Media coverage of the three-dimensional Ghys conjecture"><span>Ghys · People’s Daily Online</span><span aria-hidden="true">↗</span></a>
+        </div>
+        <div class="project-group__entry">
+          <h4><a href="https://github.com/InternLM/MindSearch"><span>MindSearch</span><span aria-hidden="true">↗</span></a></h4>
+          <p>An LLM-based multi-agent framework for web search.</p>
+          {% include project-metric.html key="mindsearch" %}
+        </div>
+      </div>
+    </article>
+    <article class="project-group" aria-labelledby="vision-projects-title">
+      <h3 id="vision-projects-title">Computer Vision Algorithm System</h3>
+      <div class="project-group__entries">
+        <div class="project-group__entry">
+          <h4><a href="https://github.com/open-mmlab/mmdetection"><span>MMDetection</span><span aria-hidden="true">↗</span></a></h4>
+          <p>OpenMMLab object detection toolbox and benchmark.</p>
+          {% include project-metric.html key="mmdetection" %}
+        </div>
+        <div class="project-group__entry">
+          <h4><a href="https://github.com/open-mmlab/mmdetection3d"><span>MMDetection3D</span><span aria-hidden="true">↗</span></a></h4>
+          <p>OpenMMLab toolbox for general 3D object detection.</p>
+          {% include project-metric.html key="mmdetection3d" %}
+        </div>
+      </div>
+    </article>
+  </div>
+</section>
+
+<section id="news" class="research-section">
   <p class="research-kicker">Recent News</p>
   <h2>Selected updates</h2>
   <ol class="research-timeline">
     <li>
+      <time datetime="2026-10">Oct. 2026</time>
+      <p>Joined <strong>XPENG Robotics</strong> as a Sr. Staff Research Scientist and Sr. Manager, leading the Physical Agents team.</p>
+    </li>
+    <li>
+      <time datetime="2026-10">Oct. 2026</time>
+      <p><strong>Intern-S2</strong> supported a human–AI collaboration that proved the three-dimensional Ghys conjecture. Coverage in <a href="http://finance.people.com.cn/n1/2026/1017/c1004-40816542.html">People’s Daily Online</a>.</p>
+    </li>
+    <li>
+      <time datetime="2026-07">July 2026</time>
+      <p>Appointed <strong>Head of the Large Model Center</strong> at <a href="https://www.shlab.org.cn/">Shanghai AI Laboratory</a>.</p>
+    </li>
+    <li>
+      <time datetime="2026-02">Feb. 2026</time>
+      <p>We released <a href="https://www.shlab.org.cn/news/5444227"><strong>Intern-S1-Pro</strong></a>, an open-source trillion-parameter multimodal foundation model for general and scientific reasoning. <a href="https://arxiv.org/abs/2603.25040">Technical report</a>.</p>
+    </li>
+    <li>
       <time>Dec. 2025</time>
-      <p>Our long-horizon reasoning agent officially ranked <strong>3rd among human competitors</strong> and <strong>1st among AI competitors</strong> in the Chinese Olympiad in Mathematics (CMO2025).</p>
+      <p><a href="https://arxiv.org/abs/2512.10739">Intern-S1-MO</a> achieved <strong>gold-medal-level performance</strong>, ranking <strong>3rd among human competitors</strong> and <strong>1st among AI competitors</strong> in the Chinese Olympiad in Mathematics (CMO2025).</p>
     </li>
     <li>
       <time>July 2025</time>
       <p>Intern-S1, state-of-the-art open-source multi-modal foundation model has been released. See <a href="https://huggingface.co/collections/internlm/intern-s1-6882e325e8ac1c58ba108aa5">Intern-S1 Collections</a> and <a href="https://arxiv.org/abs/2508.15763">tech report</a>.</p>
     </li>
+  </ol>
+  <details class="research-archive"><summary>Earlier updates <span>2025–2019</span></summary>
+  <ol class="research-timeline">
     <li>
-      <time>2025</time>
-      <p>InternLM2.5-StepProver won the <strong>Best Paper Runner-Up Award</strong> in ICML2025 AI4Math Workshop.</p>
+      <time datetime="2025-07">July 2025</time>
+      <p><a href="https://arxiv.org/abs/2410.15700">InternLM2.5-StepProver</a> received a <a href="https://sites.google.com/view/ai4mathworkshopicml2025/awards"><strong>Best Paper Honorable Mention</strong></a> at the ICML 2025 AI4Math Workshop.</p>
     </li>
+
     <li>
       <time>July 2024</time>
       <p>InternLM2.5-Chat, state-of-the-art open-source LLMs in <a href="https://rank.opencompass.org.cn/home">opencompass</a> and <a href="https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard/">huggingface leadboard</a>, have been released. See <a href="https://github.com/InternLM/InternLM?tab=readme-ov-file#model-zoo">InternLM2.5 Model Zoo</a>.</p>
@@ -139,6 +184,7 @@ redirect_from:
       <p>Win the <strong>1st prize</strong> in <a href="http://cocodataset.org/workshop/coco-mapillary-iccv-2019.html">COCO 2019 Object Detection Challenge</a> (no external data). (Team: MMDet)</p>
     </li>
   </ol>
+  </details>
 </section>
 
 <section class="research-section">

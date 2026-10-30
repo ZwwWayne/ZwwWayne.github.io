@@ -1,0 +1,24 @@
+<article class="publication-item">
+  <h3>
+    {% if post.link %}
+      <a href="{{ post.link | relative_url }}">{{ post.title }}</a>
+    {% elsif post.paperurl %}
+      <a href="{{ post.paperurl | strip | relative_url }}">{{ post.title }}</a>
+    {% else %}
+      {{ post.title }}
+    {% endif %}
+  </h3>
+  {% if post.author %}<p class="publication-authors">{{ post.author }}</p>{% endif %}
+  {% if post.conf %}
+    <p class="publication-venue">{{ post.conf }}{% if post.conf_shortname %} ({{ post.conf_shortname }}){% endif %}{% if post.year %}, {{ post.year }}{% endif %}</p>
+  {% endif %}
+  {% if post.highlight %}<p class="publication-highlight">{{ post.highlight }}</p>{% endif %}
+  {% if post.paperurl or post.codeurl or post.projecturl or post.posterlink %}
+    <nav class="publication-links" aria-label="Resources for {{ post.title | escape }}">
+      {% if post.paperurl %}<a href="{{ post.paperurl | strip | relative_url }}">Paper <span aria-hidden="true">↗</span></a>{% endif %}
+      {% if post.codeurl %}<a href="{{ post.codeurl | strip | relative_url }}">Code <span aria-hidden="true">↗</span></a>{% endif %}
+      {% if post.projecturl %}<a href="{{ post.projecturl | strip | relative_url }}">Project <span aria-hidden="true">↗</span></a>{% endif %}
+      {% if post.posterlink %}<a href="{{ post.posterlink | strip | relative_url }}">Poster <span aria-hidden="true">↗</span></a>{% endif %}
+    </nav>
+  {% endif %}
+</article>

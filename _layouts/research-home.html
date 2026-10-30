@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.url == "/" %}Wenwei Zhang，张文蔚 — XPENG Robotics{% else %}{{ page.title | escape }} — Wenwei Zhang{% endif %}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | escape }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="icon" href="/images/profile-mine.png" type="image/png">
+  <link rel="stylesheet" href="/assets/css/research-home.css">
+  {% if page.url == "/publications/" %}<link rel="stylesheet" href="/assets/css/research-publications.css">{% endif %}
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="home-header"><nav aria-label="Main navigation"><a class="wordmark" href="/">Wenwei Zhang</a><div><a href="/#research">Research</a><a href="/publications/"{% if page.url == "/publications/" %} aria-current="page"{% endif %}>Publications</a><a href="/#news">News</a></div></nav></header>
+  <main id="main">{{ content }}</main>
+  <footer class="home-footer"><a class="wordmark" href="/">Wenwei Zhang</a><p>Research, build, and share.</p><span>© {{ site.time | date: '%Y' }} Wenwei Zhang</span></footer>
+  {% if page.url == "/" %}<script src="/assets/js/project-metrics.js" defer></script>{% endif %}
+</body>
+</html>

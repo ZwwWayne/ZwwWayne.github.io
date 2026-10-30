@@ -1,0 +1,11 @@
+{%- if include.kind == "downloads" -%}
+  {%- assign metric = site.data.project_metrics.downloads[include.key] -%}
+  {%- if metric -%}
+<small class="project-metric" data-download-series="{{ include.key }}" data-downloads="{{ metric.downloads }}" data-model-count="{{ metric.model_count }}" data-updated-at="{{ metric.updated_at }}" title="{{ metric.exact }} downloads in the rolling last 30 days · {{ metric.model_count }} official {{ metric.label }} HF model repositories, including derivatives and quantizations · Hugging Face Hub API · Updated {{ metric.updated_at }}" aria-label="{{ metric.exact }} downloads in the rolling last 30 days · {{ metric.model_count }} official {{ metric.label }} HF model repositories, including derivatives and quantizations · Hugging Face Hub API · Updated {{ metric.updated_at }}"><span aria-hidden="true">↓</span><span data-downloads-count>{{ metric.display }}</span> HF downloads / 30d</small>
+  {%- endif -%}
+{%- else -%}
+  {%- assign metric = site.data.project_metrics.repositories[include.key] -%}
+  {%- if metric -%}
+<small class="project-metric" data-github-repo="{{ metric.repo | escape }}" data-stars="{{ metric.stars }}" data-updated-at="{{ metric.updated_at }}" title="{{ metric.exact }} GitHub stars · GitHub API ({{ metric.repo | escape }}) · Updated {{ metric.updated_at }}" aria-label="{{ metric.exact }} GitHub stars · GitHub API ({{ metric.repo | escape }}) · Updated {{ metric.updated_at }}"><span aria-hidden="true">☆</span><span data-stars-count>{{ metric.display }}</span> GitHub stars</small>
+  {%- endif -%}
+{%- endif -%}
