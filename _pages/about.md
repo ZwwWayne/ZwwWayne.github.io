@@ -11,7 +11,6 @@ redirect_from:
 
 <section class="research-hero" aria-labelledby="profile-title">
   <div class="research-hero__copy">
-    <p class="research-kicker">AI agents</p>
     <h1 id="profile-title">Wenwei Zhang <span lang="zh">张文蔚</span></h1>
     <p class="research-role">Sr. Staff Research Scientist · XPENG Robotics</p>
     <p class="research-hero__lead">My research focuses on <strong>scalable oversight of agents in the physical world</strong> at <a href="https://xpeng-robotics.github.io/">XPENG Robotics</a>.</p>
